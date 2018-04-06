@@ -1,0 +1,9 @@
+[submodule "RPi/raspberrypi"]
+	path = RPi/raspberrypi
+	url = git@github.com:dwelch67/raspberrypi.git
+[submodule "RPi/arm-tutorial-rpi"]
+	path = RPi/arm-tutorial-rpi
+	url = https://github.com/BrianSidebotham/arm-tutorial-rpi.git
+[submodule "RPi/RaspberryPi"]
+	path = RPi/RaspberryPi
+	url = https://github.com/PeterLemon/RaspberryPi.git
